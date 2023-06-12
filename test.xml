@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN"    "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd" [
+  <!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+  <!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+  <!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+  <!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+  <!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+  <!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+]>
+<svg>
+<variableSets  xmlns="&ns_vars;">
+  <variableSet  varSetName="binding1" locked="none">
+    <variables>
+      <variable varName="username" trait="textcontent" category="&ns_flows;"></variable>
+      <variable varName="certi_id" trait="textcontent" category="&ns_flows;"></variable>
+      <variable varName="name" trait="textcontent" category="&ns_flows;"></variable>
+    </variables>
+    <v:sampleDataSets  xmlns:v="http://ns.adobe.com/Variables/1.0/" xmlns="http://ns.adobe.com/GenericCustomNamespace/1.0/">
+
+
+    <v:sampleDataSet dataSetName="Le Quoc Dat">
+        <certi_id>
+          <p>00104001</p>
+        </certi_id>
+        <name>
+          <p>Le Quoc Dat</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Vo Thanh Dat">
+        <certi_id>
+          <p>00104002</p>
+        </certi_id>
+        <name>
+          <p>Vo Thanh Dat</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Harley Nguyen">
+        <certi_id>
+          <p>00104003</p>
+        </certi_id>
+        <name>
+          <p>Harley Nguyen</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Duong Minh Truc">
+        <certi_id>
+          <p>00104004</p>
+        </certi_id>
+        <name>
+          <p>Duong Minh Truc</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Truong Hoang Phat">
+        <certi_id>
+          <p>00104005</p>
+        </certi_id>
+        <name>
+          <p>Truong Hoang Phat</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Ngoc Ky Duyen">
+        <certi_id>
+          <p>00104006</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Ngoc Ky Duyen</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Tran Thi Minh Trang">
+        <certi_id>
+          <p>00104007</p>
+        </certi_id>
+        <name>
+          <p>Tran Thi Minh Trang</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Viet Dat">
+        <certi_id>
+          <p>00104008</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Viet Dat</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Huynh Tan Cuong">
+        <certi_id>
+          <p>00104009</p>
+        </certi_id>
+        <name>
+          <p>Huynh Tan Cuong</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Bui Phu Quy">
+        <certi_id>
+          <p>00104010</p>
+        </certi_id>
+        <name>
+          <p>Bui Phu Quy</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Duc Minh">
+        <certi_id>
+          <p>00104011</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Duc Minh</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Minh Anh">
+        <certi_id>
+          <p>00104012</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Minh Anh</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Pham Quang Minh">
+        <certi_id>
+          <p>00104013</p>
+        </certi_id>
+        <name>
+          <p>Pham Quang Minh</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Gia Linh">
+        <certi_id>
+          <p>00104014</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Gia Linh</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Van Sang">
+        <certi_id>
+          <p>00104015</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Van Sang</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Van Truc Song An">
+        <certi_id>
+          <p>00104016</p>
+        </certi_id>
+        <name>
+          <p>Van Truc Song An</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Quang Nam">
+        <certi_id>
+          <p>00104017</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Quang Nam</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Nguyen Dang Khoi">
+        <certi_id>
+          <p>00104018</p>
+        </certi_id>
+        <name>
+          <p>Nguyen Dang Khoi</p>
+        </name>
+      </v:sampleDataSet>
+    
+    <v:sampleDataSet dataSetName="Ho Phuong Thanh">
+        <certi_id>
+          <p>00104019</p>
+        </certi_id>
+        <name>
+          <p>Ho Phuong Thanh</p>
+        </name>
+      </v:sampleDataSet>
+    </v:sampleDataSets>
+  </variableSet>
+</variableSets>
+</svg>
+
